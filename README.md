@@ -10,5 +10,8 @@ They have supplied you with a csv file called `"bank_marketing.csv"`, which you 
 + Clean bank_marketing.csv and store as three DataFrames called `client`, `campaign`, and `economics`, each containing the columns outlined in the notebook and formatted to the data types listed.
 
 + Save the three DataFrames to csv files, without an index, as `client.csv`, `campaign.csv`, and `economics.csv` respectively.
-+ To view more instructions  and the whole project open the notebook below 
+To view more instructions  and the whole project open the notebook below 
 # [View Notebook](https://github.com/WAKIOM/Cleaning-Marketing-Campaign-Data/blob/main/Bank-Marketing-Data-Cleaning-Project/notebook.ipynb)
+
+To view the files created click the link below
+# [View files](https://github.com/WAKIOM/Cleaning-Marketing-Campaign-Data/tree/main/Bank-Marketing-Data-Cleaning-Project)
